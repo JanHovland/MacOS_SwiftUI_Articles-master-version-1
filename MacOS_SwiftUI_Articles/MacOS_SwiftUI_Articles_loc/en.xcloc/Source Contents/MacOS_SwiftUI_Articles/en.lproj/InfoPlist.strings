@@ -1,0 +1,4 @@
+/* Bundle name */
+"CFBundleName" = "MacOS_SwiftUI_Articles";
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "Copyright © 2020 Jan Hovland. All rights reserved.";

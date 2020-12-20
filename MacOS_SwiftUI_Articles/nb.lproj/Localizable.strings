@@ -1,0 +1,66 @@
+/* MacOS_SwiftUI_Articles */
+"AddArticle" = "Lagre ny atikkel";
+
+/* AddArticleView */
+"Article saved" = "Artikkelen lagret";
+
+/* MacOS_SwiftUI_Articles */
+"Cannot show AddArticle" = "Kan ikke vise AddArticle";
+
+/* AddArticleView */
+"Check that all fields have a value" = "Sjekk at alle feltene har en verdi";
+
+/* Quit without saves error question message */
+"Could not save changes while quitting. Quit anyway?" = "Kunne ikke lagre endringene mens du avsluttet. Slutte likevel?";
+
+/* MacOS_SwiftUI_Articles */
+"Delete this article?" = "Slette denne artikkelen?";
+
+/* MacOS_SwiftUI_Articles */
+"Do you really want to delete this article?" = "Vil du virkelig slette denne artikkelen?";
+
+/* No comment provided by engineer. */
+"Enter a new article" = "Lagre ny artikkel";
+
+/* AddArticleView */
+"Existing data" = "Eksisterende data";
+
+/* MacOS_SwiftUI_Articles */
+"Fetched all Article data" = "Hentet alle artiklene";
+
+/* AddArticleView */
+"Introduction " = "Introduksjon ";
+
+/* AddArticleView */
+"MainType     " = "Hovedtype    ";
+
+/* AddArticleView */
+"Missing data" = "Mangler data";
+
+/* MacOS_SwiftUI_Articles */
+"Now all the data is extracted from the Article table on CloudKit" = "Nå er alle dataene hentet ut fra artikkel tabellen i CloudKit";
+
+/* No comment provided by engineer. */
+"Refresh" = "Frisk opp";
+
+/* No comment provided by engineer. */
+"Save article" = "Lagre artikkel";
+
+/* AddArticleView */
+"SubType      " = "Undernivå    ";
+
+/* MacOS_SwiftUI_Articles */
+"Successfully deleted the article" = "Artikkelen ble slettet";
+
+/* AddArticleView */
+"This article is now stored in CloudKit" = "Denne artikkelen er nå lagret i CloudKit";
+
+/* AddArticleView */
+"This article was stored earlier" = "Denne artikkelen ble lagret tidligere";
+
+/* AddArticleView */
+"Title        " = "Tittel       ";
+
+/* AddArticleView */
+"Url          " = "Url          ";
+
