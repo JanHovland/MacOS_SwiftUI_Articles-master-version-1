@@ -11,7 +11,7 @@ import SwiftUI
 
 struct CloudKitArticle {
     struct RecordType {
-        static let Article = "Article"
+        static let Article = "Article"   
     }
     /// MARK: - errors
     enum CloudKitHelperError: Error {
